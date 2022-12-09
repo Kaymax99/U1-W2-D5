@@ -273,5 +273,4 @@ for (let i = 0; i < charactersArray.length; i++) {
       numbersArray.push(26);
   }
 }
-console.log(numbersArray);
- */
+console.log(numbersArray); */
