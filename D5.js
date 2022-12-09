@@ -139,34 +139,7 @@ while (i < numArrLenght) {
 
 /* Cambiando l'ordine delle lettere il ciclo viene completato ugualmente, ma ovviamente i numeri nell'array numerico hanno un ordine diverso */
 /* 
-const charactersArray = [
-  "a",
-  "b",
-  "c",
-  "d",
-  "e",
-  "f",
-  "g",
-  "h",
-  "i",
-  "j",
-  "k",
-  "l",
-  "m",
-  "n",
-  "o",
-  "p",
-  "q",
-  "r",
-  "s",
-  "t",
-  "u",
-  "v",
-  "w",
-  "x",
-  "y",
-  "z",
-];
+const charactersArray = ["g", "n", "u", "z", "d"];
 const numbersArray = [];
 
 for (let i = 0; i < charactersArray.length; i++) {
