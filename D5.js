@@ -70,9 +70,9 @@ const cars = [
 
 let i = 0;
 for (let i = 0; i < cars.length; i++) {
-  cars[i].licensePlate = "AA00" + i;
+  cars[i].licensePlate = "EU00" + i;
 }
-console.log(cars);
+/* console.log(cars); */
 
 /* ESERCIZIO 6
     Scrivi del codice per aggiungere un nuovo oggetto in ultima posizione nell'array "cars", rispettando la struttura degli altri elementi.
