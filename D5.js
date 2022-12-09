@@ -134,6 +134,9 @@ while (i < numArrLenght) {
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
+
+/* Cambiando l'ordine delle lettere il ciclo viene completato ugualmente, ma ovviamente i numeri nell'array numerico hanno un ordine diverso */
+/* 
 const charactersArray = [
   "a",
   "b",
@@ -271,3 +274,4 @@ for (let i = 0; i < charactersArray.length; i++) {
   }
 }
 console.log(numbersArray);
+ */
