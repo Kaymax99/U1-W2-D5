@@ -11,7 +11,9 @@ REGOLE
 */
 const pets = ["dog", "cat", "hamster", "redfish"];
 
-/* console.log("Unsorted array elements: " + pets.join(", ")); */
+/* for (let i = 0; i < pets.length; i++) {
+  console.log(pets[i]);
+} */
 
 /* ESERCIZIO 2
     Scrivi del codice per ordinare alfabeticamente gli elementi dell'array "pets".
